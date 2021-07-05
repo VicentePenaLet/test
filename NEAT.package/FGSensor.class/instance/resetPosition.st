@@ -1,0 +1,3 @@
+accessing
+resetPosition
+ position:= initialPosition.

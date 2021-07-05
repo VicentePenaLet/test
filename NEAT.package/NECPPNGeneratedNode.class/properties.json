@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "NENode",
+	"category" : "NEAT-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bias"
+	],
+	"name" : "NECPPNGeneratedNode",
+	"type" : "normal"
+}

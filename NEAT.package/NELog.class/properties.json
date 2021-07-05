@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"generation",
+		"speciation",
+		"minFitness",
+		"maxFitness",
+		"averageFitness",
+		"bestIndividual",
+		"bestN"
+	],
+	"name" : "NELog",
+	"type" : "normal"
+}

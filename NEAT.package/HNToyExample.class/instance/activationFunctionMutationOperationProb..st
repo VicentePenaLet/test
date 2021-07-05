@@ -1,0 +1,3 @@
+accessing
+activationFunctionMutationOperationProb: prob
+activationFunctionMutationOperationProb:= prob

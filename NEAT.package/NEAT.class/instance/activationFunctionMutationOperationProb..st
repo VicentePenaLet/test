@@ -1,0 +1,3 @@
+initialization
+activationFunctionMutationOperationProb: prob
+ActivationFunctionMutationOperationProb:= prob

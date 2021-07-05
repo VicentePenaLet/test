@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"population",
+		"canvas",
+		"pop"
+	],
+	"name" : "HNVisuealizer",
+	"type" : "normal"
+}

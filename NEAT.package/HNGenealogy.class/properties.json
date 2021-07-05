@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"population",
+		"logs",
+		"logReference"
+	],
+	"name" : "HNGenealogy",
+	"type" : "normal"
+}

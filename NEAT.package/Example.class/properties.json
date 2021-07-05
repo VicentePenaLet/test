@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Neat-VisualDiscrimination",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"smallPosition",
+		"largePosition",
+		"smallIndex",
+		"smallSize",
+		"predicted",
+		"c",
+		"largeIndex",
+		"predictedIndex"
+	],
+	"name" : "Example",
+	"type" : "normal"
+}

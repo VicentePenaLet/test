@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parents",
+		"children",
+		"nodes",
+		"connections",
+		"random",
+		"fitness",
+		"species",
+		"ticks",
+		"results",
+		"expected",
+		"id",
+		"crossOver",
+		"gen",
+		"lastMutation"
+	],
+	"name" : "NEIndividual",
+	"type" : "normal"
+}

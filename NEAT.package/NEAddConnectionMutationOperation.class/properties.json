@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "NEAbstractStructuralMutationOperation",
+	"category" : "NEAT-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NEAddConnectionMutationOperation",
+	"type" : "normal"
+}

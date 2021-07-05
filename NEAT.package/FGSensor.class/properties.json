@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-FoodGathering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"position",
+		"minAngle",
+		"maxAngle",
+		"output",
+		"initPosition",
+		"initialPosition",
+		"angle",
+		"angleDegree",
+		"agentPosition"
+	],
+	"name" : "FGSensor",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "HNToyExample",
+	"category" : "NEAT-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HNExample",
+	"type" : "normal"
+}

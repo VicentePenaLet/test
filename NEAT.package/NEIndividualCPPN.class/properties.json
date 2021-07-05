@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "NEIndividual",
+	"category" : "NEAT-Core",
+	"classinstvars" : [
+		"inputs",
+		"outputs"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"network",
+		"minWeight",
+		"minScale",
+		"maxScale",
+		"getPosition"
+	],
+	"name" : "NEIndividualCPPN",
+	"type" : "normal"
+}

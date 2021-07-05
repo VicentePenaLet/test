@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-FoodGathering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"agents",
+		"foodPosition",
+		"agentPosition",
+		"e"
+	],
+	"name" : "FoodGathertingExperiment",
+	"type" : "normal"
+}

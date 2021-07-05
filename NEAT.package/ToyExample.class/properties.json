@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Example",
+	"category" : "NEAT-Neat-VisualDiscrimination",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ToyExample",
+	"type" : "normal"
+}

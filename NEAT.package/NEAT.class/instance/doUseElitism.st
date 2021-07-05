@@ -1,0 +1,3 @@
+initialization
+doUseElitism
+	shouldUseElitism := true

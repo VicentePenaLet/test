@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"datasets",
+		"activationFunctionMutationOperationProb",
+		"addConnectionMutationOperationProb",
+		"addNodeMutationOperationProb",
+		"connectionWeightMutationOperationProb",
+		"crossoverOperationProb",
+		"neat",
+		"elitismN"
+	],
+	"name" : "HNToyExample",
+	"type" : "normal"
+}

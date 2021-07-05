@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"gen",
+		"parents",
+		"children",
+		"lastMutation",
+		"crossOver",
+		"nConnections",
+		"nNeurons",
+		"activationFunctions",
+		"canvas",
+		"position",
+		"elements",
+		"fitness"
+	],
+	"name" : "HNGenealogyIndividual",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-Neat-VisualDiscrimination",
+	"classinstvars" : [
+		"examples"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"examples"
+	],
+	"name" : "ExampleGenerator",
+	"type" : "normal"
+}

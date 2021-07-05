@@ -1,0 +1,31 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NEAT-FoodGathering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"network",
+		"inputs",
+		"outputs",
+		"n",
+		"speed",
+		"maxSpeed",
+		"position",
+		"score",
+		"sensors",
+		"maxTicks",
+		"cpp",
+		"tolerance",
+		"ttot",
+		"fitness",
+		"capturedFood",
+		"positionHistory",
+		"canvas",
+		"i",
+		"drawings"
+	],
+	"name" : "FGAgent",
+	"type" : "normal"
+}

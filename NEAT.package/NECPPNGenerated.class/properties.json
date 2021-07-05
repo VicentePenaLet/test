@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "NEIndividual",
+	"category" : "NEAT-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"network"
+	],
+	"name" : "NECPPNGenerated",
+	"type" : "normal"
+}
