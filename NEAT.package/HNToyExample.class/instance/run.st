@@ -48,6 +48,6 @@ neat fitness: [ :cpp |
 										 score:= score + error].
 									score negated asFloat].
 
-neat numberOfGenerations: 100.
+neat numberOfGenerations: 20.
 neat run.
 ^neat

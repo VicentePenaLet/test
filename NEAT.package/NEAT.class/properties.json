@@ -34,7 +34,8 @@
 		"AddNodeMutationOperationProb",
 		"ConnectionWeightMutationOperationProb",
 		"CrossoverOperationProb",
-		"generationRanked"
+		"generationRanked",
+		"populationHistory"
 	],
 	"name" : "NEAT",
 	"type" : "normal"

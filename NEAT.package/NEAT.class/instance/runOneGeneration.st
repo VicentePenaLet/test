@@ -5,7 +5,7 @@ runOneGeneration
 	genNumber := genNumber+1.
 	newPopulation := OrderedCollection new.
 	numberOfIndividualToCreate := (shouldUseElitism and: [genNumber > 1 ]) 
-												ifTrue: [ newPopulation addAll: self logs last bestN copy . populationSize - elitismN] 
+												ifTrue: [ newPopulation addAll: self copyBestN  . populationSize - elitismN] 
 												ifFalse: [ populationSize ].
 	numberOfIndividualToCreate
 		timesRepeat: [ 
@@ -26,7 +26,12 @@ runOneGeneration
 				ifFalse: [
 					| i |
 					i := self selectIndividual.
-					newInd := i copy.
+					newInd := individualClass new.
+					newInd random: random.
+					newInd nodes: (i nodes collect: #copy).
+					newInd connections: (i connections collect: #copy).
+					newInd fitness: i fitness.
+					newInd generation: genNumber.
 					newInd addParent: i.
 					newInd crossOver: false.
 					i addChildren: newInd ].

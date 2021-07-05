@@ -23,6 +23,8 @@ initialize
 	generations := OrderedCollection new.
 	genealogy := HNGenealogy new.
 	generationRanked := OrderedCollection new.
+	
+	populationHistory := OrderedCollection new.
 	self individualClass: NEIndividual.
 	self speciationThreshold: 8.
 	self doUseElitism.

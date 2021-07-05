@@ -25,4 +25,5 @@ updateGenealogy
 			indParents do: [ :parent|genInd addParent: parent. parent addChild: genInd].
 			genInd.
 			].
-	genealogy add: thisGeneerationGenealogyInd
+	genealogy add: thisGeneerationGenealogyInd.
+	populationHistory add: population copy.
